@@ -1,0 +1,26 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "learn github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas-void0/actions.git"
+  },
+  "keywords": [
+    "github",
+    "actions"
+  ],
+  "author": "thomas-void0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomas-void0/actions/issues"
+  },
+  "homepage": "https://github.com/thomas-void0/actions#readme",
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  }
+}
